@@ -22,10 +22,10 @@ patat:
 > Background
 
 
-- Azul: CTO & Co-Founder of Nixlta
+- Azul: CTO & Co-Founder of Nixtla
 
 - I'm a mexican women 🏳️‍⚧️ ,
-born in Salamanca, Mexico. 
+born in Salamanca, Mexico. (Population: 200k)
 
 - Don't worry if this is new for you.
 
@@ -41,7 +41,8 @@ _OMG!..._
 
 We launched our beta a couple of days ago and...
 
-- We have processed _195,839_ requests in our API
+- We have processed _205,011_ requests in our API.
+    (Almost Salamanca population xD)
 
 - From more than _10_ countries
 
