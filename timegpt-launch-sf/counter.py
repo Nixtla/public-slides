@@ -82,15 +82,15 @@ def number_representation(n):
 console = Console()
 console.clear()
 
-def vertical_padding(lines=1):
+def vertical_padding(lines=1, skip_lines=0):
     """Return vertical padding to center text vertically."""
     height = console.size.height
-    padding_lines = (height - lines) // 2
+    padding_lines = (height - lines) // 2 - skip_lines
     return '\n' * padding_lines
 
-def center_print(message: str, duration: int = None):
+def center_print(message: str, duration: int = None, skip_lines=1):
     """Utility function to print centered text."""
-    console.print(vertical_padding())
+    console.print(vertical_padding(skip_lines=skip_lines))
     aligned_message = Align.center(message)
     console.print(aligned_message)
     if duration:
@@ -104,7 +104,7 @@ def centered_counter(duration=10):
     time.sleep(2)
     for i in range(duration-1, -1, -1):
         console.clear()
-        center_print(f'[bold green]{number_representation(i)}[/bold green]')
+        center_print(f'[bold green]{number_representation(i)}[/bold green]', skip_lines=3)
         time.sleep(1)
     console.clear()
     center_print("[bold blue]Happy Forecasting! 😃🎉[/bold blue]", 3)
