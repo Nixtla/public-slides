@@ -29,6 +29,8 @@ born in Salamanca, Mexico.
 
 - Don't worry if this is new for you.
 
+- This is my first public talk in English (by myself).
+
 - Let's take a moment to advocate for __diversity__.
 
 ---
