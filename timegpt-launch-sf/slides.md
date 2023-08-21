@@ -60,12 +60,12 @@ Show, dont tell.
 Lets go LIVE!!!
 
 
-```bash
-pip install nixtlats
-```
+_pip install nixtlats_
+
+(The code will be available at _https://github.com/Nixtla/public-slides_ after the talk :D)
 
 ---
 
 > Call to action
 
-Go to nixtla.io and sign up (Submit Interest)
+Go to __nixtla.io__ and sign up (Submit Interest)
