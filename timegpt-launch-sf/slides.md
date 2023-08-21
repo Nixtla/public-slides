@@ -62,10 +62,15 @@ Lets go LIVE!!!
 
 _pip install nixtlats_
 
-(The code will be available at _https://github.com/Nixtla/public-slides_ after the talk :D)
+
+
+The code will be available at:
+_https://github.com/Nixtla/public-slides_ 
+after the talk :D
 
 ---
 
 > Call to action
 
-Go to __nixtla.io__ and sign up (Submit Interest)
+- Go to __nixtla.io__
+- Sign up (Submit Interest)
