@@ -21,6 +21,7 @@ def centered_counter(duration=10):
         time.sleep(1)
     console.clear()
     center_print("[bold blue]Happy Forecasting! 😃🎉[/bold blue]", 3)
+    time.sleep(900)
 
 if __name__ == "__main__":
     centered_counter()
