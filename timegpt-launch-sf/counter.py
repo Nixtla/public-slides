@@ -97,7 +97,7 @@ def center_print(message: str, duration: int = None, skip_lines=1):
         time.sleep(duration)
 
 def centered_counter(duration=10):
-    center_print("[bold yellow]Are you ready for TimeGPT?[/bold yellow]")
+    center_print("[bold yellow]Are you ready for TimeGPT-1 (Beta)?[/bold yellow]")
     time.sleep(2)
     console.clear()
     center_print("[bold violet] Let's count together from 9 to 0 (because of Python xD)[/bold violet]")
