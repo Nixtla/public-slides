@@ -1,5 +1,4 @@
 datasetsforecast
-git+https://github.com/nixtla/hierarchicalforecast.git
 nixtlats
 rich
 statsforecast
