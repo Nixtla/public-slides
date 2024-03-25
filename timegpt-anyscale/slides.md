@@ -19,22 +19,6 @@ patat:
 
 ---
 
-> Background
-
-
-- Azul: CTO & Co-Founder of Nixtla
-
-- I'm a mexican women 🏳️‍⚧️ ,
-born in Salamanca, Mexico. (Population: 200k)
-
-- Don't worry if this is new for you.
-
-- This is my third public talk in English (by myself).
-
-- Let's take a moment to advocate for __diversity__.
-
----
-
 > How to use TimeGPT?
 
 Show, dont tell. 
